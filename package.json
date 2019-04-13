@@ -1,0 +1,26 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/littlemooon/scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/littlemooon/scrape/issues"
+  },
+  "homepage": "https://gitlab.com/littlemooon/scrape#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^1.14.0"
+  }
+}

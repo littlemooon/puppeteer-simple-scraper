@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "sideBar.border": "#31f087",
+  },
+}
